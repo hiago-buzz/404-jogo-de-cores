@@ -12,6 +12,8 @@ body{
     justify-content: space-around;
     flex-direction: column;
 
+    font-family: 'Courier New', Courier, monospace;
+
 }
 
 nav{
@@ -43,5 +45,20 @@ div{
 
 div:hover{
     transform: scale(1.1);
+    cursor: pointer;
+}
+
+.girarQuadrado{
+    transform: rotate(360deg);
+    transition: 1s;
+}
+
+button{
+    width: 100px;
+    height: 50px;
+    border: none;
+    border-radius: 50px;
+    background-color: red;
+    color: white;
     cursor: pointer;
 }
