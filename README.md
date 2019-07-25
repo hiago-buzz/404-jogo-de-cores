@@ -23,6 +23,7 @@
 function resetarJogo(){
     for(let quadrado of quadrados){
         quadrado.style.backgroundColor = "unset";
+        quadrado.onclick = gerarCor;
     }
 
     resposta.innerHTML = "";
