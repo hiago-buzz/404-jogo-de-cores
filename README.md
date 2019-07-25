@@ -16,7 +16,7 @@
 
  ---
 
- ** EX: Função Resetar Game
+ **EX: Função Resetar Game.**
 
  ~~~
 
