@@ -33,10 +33,10 @@ function verificador (){
             setInterval (() => {
                 quadrado.classList.add ("girarQuadrado");
 
-           },1000);
-     
+            },1000);
+          
         }
-}
+    }
 
 }
 
@@ -49,3 +49,4 @@ function resetarJogo(){
 }
 
 reset.onclick = resetarJogo;
+

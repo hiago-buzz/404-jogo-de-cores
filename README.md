@@ -31,3 +31,5 @@ function resetarJogo(){
 reset.onclick = resetarJogo;
 
 ~~~
+
+- Quer Jogar? [click aqui] https://hiago-buzz.github.io/404-jogo-de-cores/.
