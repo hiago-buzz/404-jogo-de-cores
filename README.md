@@ -33,4 +33,4 @@ reset.onclick = resetarJogo;
 
 ~~~
 
-- Quer Jogar? [click aqui] https://hiago-buzz.github.io/404-jogo-de-cores/.
+- Quer Jogar? https://hiago-buzz.github.io/404-jogo-de-cores/.
